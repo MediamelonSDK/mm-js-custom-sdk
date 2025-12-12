@@ -1,6 +1,6 @@
 {
   "name": "mediamelon-js-custom-sdk",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "description": "MediaMelon JS Custom QoE SDK",
   "main": "mmsmartstreamingsdk.min.js",
   "scripts": {
